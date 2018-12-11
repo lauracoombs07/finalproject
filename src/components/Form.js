@@ -1,15 +1,15 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './Form.css';
 
-class App extends Component {
+class Form extends Component {
   render() {
     return (
-      <div className="App">
+      <div className="Form">
       
       </div>
     );
   }
 }
 
-export default App;
+export default Form;
